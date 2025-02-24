@@ -2,4 +2,4 @@
 
 echo "my script______"
 
-pwd
+echo "new script______"
